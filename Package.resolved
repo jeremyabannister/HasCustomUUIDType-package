@@ -1,13 +1,13 @@
 {
-  "originHash" : "ce06c5f754619d3aa47b2349015de729089f3e242ead7526a94fd724e78c0aca",
+  "originHash" : "4b3b3e89fddd7b3ef309f1d35d6db4820ac4f72d144eefd2cb16804b681b6e74",
   "pins" : [
     {
       "identity" : "assertiontoolkit",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/jeremyabannister/AssertionToolkit",
       "state" : {
-        "revision" : "f566c1fbaf5567c8005bfa0b734357900b455e84",
-        "version" : "0.1.0"
+        "revision" : "5e81b8b5bdcc1f35a0dacb267bc34f1ad8865a50",
+        "version" : "0.1.3"
       }
     },
     {
@@ -15,8 +15,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/jeremyabannister/DistinctType-package",
       "state" : {
-        "revision" : "9f786024204d1ecf948de219003a6ae2ba0a789f",
-        "version" : "0.1.0"
+        "revision" : "6967a88e522790b8ead9570c6986100f835587c2",
+        "version" : "0.1.1"
       }
     },
     {
@@ -24,8 +24,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/jeremyabannister/ErrorMessage-package",
       "state" : {
-        "revision" : "317e7dbba44dc6e28a4a169975d95e1a5ed5911b",
-        "version" : "0.1.0"
+        "revision" : "8d8529f87a220c8958e2c28ec791fa0b1a1cd526",
+        "version" : "0.1.2"
       }
     },
     {
@@ -33,8 +33,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/jeremyabannister/ExpressionErgonomics",
       "state" : {
-        "revision" : "1886e6e82efdc5e6b266428e92cdd60f501f4cdd",
-        "version" : "0.4.0"
+        "revision" : "971aef1f396ec1efbc168c03566c69793b517d9c",
+        "version" : "0.4.6"
       }
     },
     {
@@ -42,8 +42,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/jeremyabannister/RandomlyGeneratable-package",
       "state" : {
-        "revision" : "c8cdcf96f0175ea4f1b7214b758981267229c479",
-        "version" : "0.1.0"
+        "revision" : "b57bbaee772f7f6b2c1ac4797bc298a2831980fc",
+        "version" : "0.1.1"
       }
     },
     {
@@ -51,8 +51,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/jeremyabannister/XCTestToolkit",
       "state" : {
-        "revision" : "da14ae755f67262ae27d863b41a6ac9514f4db98",
-        "version" : "0.2.4"
+        "revision" : "9acc3db205b6c444ac5cc9591cf3bc277cd13524",
+        "version" : "0.2.6"
       }
     }
   ],
