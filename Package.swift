@@ -13,7 +13,7 @@ let package = Package(
     dependencies: [
         .package(
             url: "https://github.com/jeremyabannister/DistinctType-package",
-            .upToNextMinor(from: "0.1.1")
+            .upToNextMinor(from: "0.1.2")
         ),
     ],
     targets: [

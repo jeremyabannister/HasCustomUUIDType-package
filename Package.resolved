@@ -1,5 +1,5 @@
 {
-  "originHash" : "4b3b3e89fddd7b3ef309f1d35d6db4820ac4f72d144eefd2cb16804b681b6e74",
+  "originHash" : "fb6ef04e27e8de9044ded25cc82344d6710e13082415ac98e8c86548af2726df",
   "pins" : [
     {
       "identity" : "assertiontoolkit",
@@ -15,8 +15,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/jeremyabannister/DistinctType-package",
       "state" : {
-        "revision" : "6967a88e522790b8ead9570c6986100f835587c2",
-        "version" : "0.1.1"
+        "revision" : "d00890046a94c1f47e8360ef9c8e0a963a3f3ca8",
+        "version" : "0.1.2"
       }
     },
     {
